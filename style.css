@@ -18,7 +18,7 @@ img {
 }
 
 div{
-    background-color:beige;
+    background-color:blanchedalmond;
     max-width: 736px;
     margin-inline: auto;
     margin-block: 10px;
@@ -61,5 +61,6 @@ td {
 }
 
 body{
-    background-color: #201c18;
+    background-color:darkslategray;
+    color:black;
 }
